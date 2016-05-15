@@ -1,0 +1,13 @@
+.ui-checkbox label.ui-checkbox-off {
+    background: white !important;
+}
+.ui-checkbox label.ui-checkbox-on {
+    background: white !important;
+}
+
+.ui-checkbox-off:after {
+    background-color: gray !important;
+}
+.ui-checkbox-on:after {
+    background-color: blue !important;
+}
